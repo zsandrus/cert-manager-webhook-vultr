@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/cert-manager/cert-manager v1.12.10
-	github.com/vultr/govultr/v2 v2.16.0
+	github.com/vultr/govultr/v2 v2.17.2
 	golang.org/x/oauth2 v0.11.0
 	k8s.io/apiextensions-apiserver v0.27.2
 	k8s.io/apimachinery v0.27.2
