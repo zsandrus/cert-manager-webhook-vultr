@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/cert-manager/cert-manager v1.12.10
 	github.com/vultr/govultr/v2 v2.17.2
-	golang.org/x/oauth2 v0.11.0
+	golang.org/x/oauth2 v0.21.0
 	k8s.io/apiextensions-apiserver v0.27.2
 	k8s.io/apimachinery v0.27.2
 	k8s.io/client-go v0.27.2
@@ -88,7 +88,6 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.9.1 // indirect
-	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20230822172742-b8732ec3820d // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230822172742-b8732ec3820d // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d // indirect
